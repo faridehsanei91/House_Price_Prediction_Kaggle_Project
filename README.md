@@ -24,4 +24,4 @@ This project is part of a Kaggle competition called [House Prices: Advanced Regr
 
 4. **Opening the Model Notebook**
 
-In the Jupyter Notebook interface, locate and open the `House_Price_Prediction.ipynb` notebook. This notebook contains the code for training and evaluating the predictive models.
+In the Jupyter Notebook interface, locate and open the `House_Price_Prediction.ipynb` notebook. This notebook contains the code for training and evaluating the predictive regression models.
