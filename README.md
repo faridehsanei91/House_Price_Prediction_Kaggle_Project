@@ -1,7 +1,7 @@
 # House Price Prediction Project
 
 ## Overview
-This project is part of a Kaggle competition called [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques), which provides a dataset of house features and their corresponding sale prices. The challenge is to develop predictive models that accurately estimate house prices using regression techniques.
+This project is a Kaggle competition called [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques), which provides a dataset of house features and their corresponding sale prices. The challenge is to develop predictive models that accurately estimate house prices using regression techniques.
 
 ## Running the Project
 
